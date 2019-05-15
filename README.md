@@ -38,7 +38,7 @@ brew install Subito-it/made/mendoza
 
 Or you can build manually using swift build.
 
-Mendoza in written in Swift 5, so if you're on macOS Mojave 10.14.3 or earlier, you may need to install an optional Swift library package that can be downloaded from "More Downloads" for Apple Developers at https://developer.apple.com/download/more/
+Mendoza is written in Swift 5, so if you're on macOS Mojave 10.14.3 or earlier, you may need to install an optional Swift library package that can be downloaded from "More Downloads" for Apple Developers at https://developer.apple.com/download/more/
 
 
 # Quick start
